@@ -1,0 +1,14 @@
+*.class
+.settings/
+
+# Package Files #
+#*.jar
+*.war
+*.ear
+
+.metadata
+.recommenders
+bin/
+
+back/
+.idea/
