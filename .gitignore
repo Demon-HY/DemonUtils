@@ -8,7 +8,10 @@
 
 .metadata
 .recommenders
-bin/
+bin/*
 
 back/
-.idea/
+/.idea/*
+
+target/*
+/target/*
